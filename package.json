@@ -20,7 +20,7 @@
     "any-db-transaction": "~2.2.2",
     "api-res": "~0.0.1",
     "async": "~1.5.2",
-    "colors": "~1.1.0",
+    "colors": "~1.4.0",
     "cmnd": "~0.0.6",
     "cross-spawn-async": "~2.1.6",
     "deep-equal": "~1.0.1",
