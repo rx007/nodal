@@ -19,7 +19,7 @@
     "any-db-postgres": "~2.1.4",
     "any-db-transaction": "~2.2.2",
     "api-res": "~0.0.1",
-    "async": "~1.5.2",
+    "async": "~3.2.2",
     "colors": "~1.1.0",
     "cmnd": "~0.0.6",
     "cross-spawn-async": "~2.1.6",
